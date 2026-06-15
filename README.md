@@ -65,19 +65,19 @@ This repository presents a multi-variable analysis of Urban Heat Island (UHI) dy
 ## 🗺️ Figures
 
 ### 🌡️ Land Surface Temperature (LST)
-![LST Map](fig_lst_map_final.png)
+![LST Map](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/fig_lst_map_final.png)
 
 ### 🌿 Vegetation (NDVI)
-![NDVI Map](fig_ndvi_map_final.png)
+![NDVI Map](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/fig_ndvi_map_final.png)
 
 ### 📉 NDVI vs LST
-![NDVI Scatter](fig_ndvi_final.png)
+![NDVI Scatter](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/fig_ndvi_lst_reg.png)
 
-### 📈 NDBI vs LST
-![NDBI Scatter](fig_ndbi_lst_reg.png)
+### 📈 Urban Heat Island
+![UHI Map](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/fig_uhi_map_final.png)
 
 ### 🌐 Multivariate Relationship
-![3D Plot](fig_3d_relationship.png)
+![3D Plot](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/fig_3d_relationship.png)
 
 ---
 
@@ -118,7 +118,7 @@ This study demonstrates that:
 
 If you use this repository, please cite:
 
-> Thapa, P. (2026). Thermal Urbanization and Vegetation Dynamics in Kathmandu Valley. [GitHub Repository]
+> Thapa, P. (2026). Thermal Urbanization and Vegetation Dynamics in Kathmandu Valley. [Chapter Preparation]
 
 ---
 
