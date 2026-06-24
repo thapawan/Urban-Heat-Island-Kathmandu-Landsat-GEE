@@ -78,7 +78,7 @@ This repository presents a multi-variable analysis of Urban Heat Island (UHI) dy
 ![UHI Map](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/fig_uhi_map_final.png)
 
 ### 🌐 Multivariate Relationship
-![3D Plot](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/fig_3d_relationship.png)
+![3D Plot](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Results/Figure4_TopTier_Multivariate%20(2).png)
 
 ---
 
