@@ -4,7 +4,7 @@
 This repository presents a multi-variable analysis of Urban Heat Island (UHI) dynamics in Kathmandu Valley, Nepal, using Landsat 8 satellite data and Google Earth Engine (GEE). The study investigates the relationships between Land Surface Temperature (LST), vegetation (NDVI), and built-up surfaces (NDBI), incorporating statistical modeling and machine learning approaches.
 
 ---
-![Study Area](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Data/Figure_Study_Area_Final.png)
+![Study Area](https://github.com/thapawan/Urban-Heat-Island-Kathmandu-Landsat-GEE/blob/main/Data/Figure_Study_Area.png)
 
 ## 🎯 Objectives
 - Derive Land Surface Temperature (LST) using Landsat 8 thermal data
